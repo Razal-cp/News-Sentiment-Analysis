@@ -33,7 +33,7 @@ This project showcases:
 
 The architecture flow is shown below:
 
-![News Sentiment Analysis Architecture](assets/Architecture.png)
+![News Sentiment Analysis Architecture](Architecture.png)
 
 ### Workflow Steps
 
